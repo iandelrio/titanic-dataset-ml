@@ -3,3 +3,4 @@
 *.aux
 *.gz
 /Data
+/.ipynb_checkpoints
